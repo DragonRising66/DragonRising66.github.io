@@ -1,0 +1,12 @@
+Origin: DragonRising66's Tweak Repo
+Label: DragonRising66's Tweak Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Tweaks i made
+
+SHA256:
+ bd0206bc5cd21541e96cc1a6fb01d4cce9b302f6113920715eca8be4be2fca0a 617 Packages.bz2
+ 14f60283a7a22b0a132fd05a368fd770109b8c8ce3d294ac82beb96b8c0e94a3 616 Packages.xz
